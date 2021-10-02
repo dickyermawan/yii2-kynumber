@@ -7,7 +7,7 @@
  * @version   1.0.6
  */
 
-namespace app\components\number;
+namespace dickyermawan\base;
 
 use Yii;
 use yii\helpers\ArrayHelper;
